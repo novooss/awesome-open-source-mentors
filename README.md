@@ -9,31 +9,31 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | Contributor/Mentor Name | PR Mentorship Focus Area | Contact | LinkedIn Username | GitHub Username | Last Updated
 | :-----------            | :---                     | :---    | :---              | :---            | :---  
 | [Jason Brown](https://twitter.com/jasobrown) | Apache Cassandra | | jasedbrown | jasedbrown | 2024-03-27 |
-| [Henrik Feldt](https://twitter.com/henrikfeldt) | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec | |
-| [Sean Thomas Larkin](https://twitter.com/TheLarkInn) | JavaScript compiler/bundler, WebPack | |
-| [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | |
-| [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | |
-| [Reuben Bond](https://twitter.com/reubenbond) | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :) | |
-| [Raul Raja](https://twitter.com/raulraja) | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io | |
-| [Steffen Forkmann](https://twitter.com/sforkmann) | FSProjects/Mechanic https://github.com/fsprojects/Mechanic | |
+| [Henrik Feldt](https://twitter.com/henrikfeldt) | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec | | henrik-f | haf | 2024-03-27 |
+| [Sean Thomas Larkin](https://twitter.com/TheLarkInn) | JavaScript compiler/bundler, WebPack | | seanthomaslarkin | TheLarkInn | 2024-03-27 |
+| [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | | marcossilvapereira | marcospereira | 2024-03-27 |
+| [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | | | | |
+| [Reuben Bond](https://twitter.com/reubenbond) | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :) | | reubenbond | ReubenBond | 2024-03-27 |
+| [Raul Raja](https://twitter.com/raulraja) | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io | | raulraja | raulraja | 2024-03-27 |
+| [Steffen Forkmann](https://twitter.com/sforkmann) | FSProjects/Mechanic https://github.com/fsprojects/Mechanic | | steffen-forkmann-191b70218 | forki | 2024-03-27 |
 | [Ed Anderson](https://twitter.com/edyesed) | * | |
-| [Maira Wenzel](https://twitter.com/mairacw) | .NET | |
-| [Matt Weagle](https://twitter.com/mweagle) | Go, https://github.com/mweagle/Sparta | |
-| [Paul Morie](https://twitter.com/cheddarmint) | Kubernetes | |
-| [svetlyak40wt](https://twitter.com/svetlyak40wt) | Working on the refactoring of Common Lisp web framework, known as Weblocks. | |
-| [Paul Tyng](https://twitter.com/ptyng) | Can help with Terraform and various other projects (mostly Go, some Javascript) | |
-| [Sean Knox](https://twitter.com/smk) | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go  | `<first name>.<last name>@microsoft.com` |
-| [Graydon Hoare](https://twitter.com/graydon_pub) | Happy to help folks interested in compilation-perf work on the swift compiler | |
-| [Jason Lengstorf](https://twitter.com/jlengstorf) | * , GraphQL | |
-| [Tom Harvey](https://twitter.com/tombuildsstuff) | Definitely (Terraform) | |
+| [Maira Wenzel](https://twitter.com/mairacw) | .NET | | mairaw | mairaw | 2024-03-27 |
+| [Matt Weagle](https://twitter.com/mweagle) | Go, https://github.com/mweagle/Sparta | | mweagle | mweagle | 2024-03-27 |
+| [Paul Morie](https://twitter.com/cheddarmint) | Kubernetes | | pmorie | pmorie | 2024-03-27 |
+| [Alexander Artemenko](https://twitter.com/svetlyak40wt) | Working on the refactoring of Common Lisp web framework, known as Weblocks. | | svetlyak40wt | svetlyak40wt | 2024-03-27 |
+| [Paul Tyng](https://twitter.com/ptyng) | Can help with Terraform and various other projects (mostly Go, some Javascript) | | ptyng | paultyng | 2024-03-27 |
+| [Sean Knox](https://twitter.com/smk) | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go  | `<first name>.<last name>@microsoft.com` | seanknox | seanknox | 2024-03-27 |
+| [Graydon Hoare](https://twitter.com/graydon_pub) | Happy to help folks interested in compilation-perf work on the swift compiler | | graydon-h-881374212 | graydon | 2024-03-27 |
+| [Jason Lengstorf](https://twitter.com/jlengstorf) | * , GraphQL | | jlengstorf | jlengstorf | 2024-03-27 |
+| [Tom Harvey](https://twitter.com/tombuildsstuff) | Definitely (Terraform) | | tombuildsstuff | tombuildsstuff | 2024-03-27 |
 | [Ali](https://twitter.com/aliostad) | * | |
 | [Cynede](https://twitter.com/Cynede) | Gentoo | |
-| [Sean Killeen](https://twitter.com/sjkilleen) | * , .NET | |
+| [Sean Killeen](https://twitter.com/sjkilleen) | * , .NET | | SeanKilleen | SeanKilleen | 2024-03-27 |
 | [Hakeem Mohammed](https://twitter.com/hakeemsm) | * | |
 | [ChristosMatskas](https://twitter.com/ChristosMatskas) | * | |
 | [jwendl](https://twitter.com/jwendl) | * | |
 | [Tuomas Hietanen](https://twitter.com/Thoriumi) | https://fsprojects.github.io/SQLProvider/ | |
-| [Michael Quinn](https://twitter.com/michaelquinn32) | I work on RStats packages. Here's one https://github.com/ropenscilabs/skimr. I'd be happy to help anyone interested! | |
+| [Michael Quinn](https://twitter.com/michaelquinn32) | I work on RStats packages. Here's one https://github.com/ropenscilabs/skimr. I'd be happy to help anyone interested! | | michaelquinn32 | michaelquinn32 | 2024-03-27 |
 | [Adam Miller](https://twitter.com/TheMaxamillion) | Ansible Core Developer here, sounding off. Happy to help newcomers, we all start somewhere, https://github.com/ansible/ansible. Anyone feel free to @ me. https://github.com/maxamillion  | |
 | [Doug Finke](https://twitter.com/dfinke) | PowerShell | |
 | [Russell Keith-Magee](https://twitter.com/freakboy3742) | The PyBeeWare project has an open offer to mentor anyone that wants to get into OSS contribution. Our getting started guide: https://pybee.org/contributing/how/first-time/ | |
