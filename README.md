@@ -6,9 +6,9 @@ Enhance the original list by including LinkedIn and GitHub usernames
 
 # Open Source Mentors
 
-| Contributor/Mentor Name | PR Mentorship Focus Area | Contact | LinkedIn Username | GitHub Username
-| :-----------            | :---                     |    :--- | :------           | :------  
-| [Jason Brown](https://twitter.com/jasobrown) | Apache Cassandra | |
+| Contributor/Mentor Name | PR Mentorship Focus Area | Contact | LinkedIn Username | GitHub Username | Last Updated
+| :-----------            | :---                     | :---    | :---              | :---            | :---  
+| [Jason Brown](https://twitter.com/jasobrown) | Apache Cassandra | | jasedbrown | jasedbrown | 2024-03-27 |
 | [Henrik Feldt](https://twitter.com/henrikfeldt) | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec | |
 | [Sean Thomas Larkin](https://twitter.com/TheLarkInn) | JavaScript compiler/bundler, WebPack | |
 | [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | |
