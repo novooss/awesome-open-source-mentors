@@ -12,7 +12,7 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Henrik Feldt](https://twitter.com/henrikfeldt) | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec | | henrik-f | haf | 2024-03-27 |
 | [Sean Thomas Larkin](https://twitter.com/TheLarkInn) | JavaScript compiler/bundler, WebPack | | seanthomaslarkin | TheLarkInn | 2024-03-27 |
 | [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | | marcossilvapereira | marcospereira | 2024-03-27 |
-| [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | | | | |
+| [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | | howardchu | hyc | 2024-03-27 |
 | [Reuben Bond](https://twitter.com/reubenbond) | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :) | | reubenbond | ReubenBond | 2024-03-27 |
 | [Raul Raja](https://twitter.com/raulraja) | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io | | raulraja | raulraja | 2024-03-27 |
 | [Steffen Forkmann](https://twitter.com/sforkmann) | FSProjects/Mechanic https://github.com/fsprojects/Mechanic | | steffen-forkmann-191b70218 | forki | 2024-03-27 |
@@ -32,37 +32,37 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Hakeem Mohammed](https://twitter.com/hakeemsm) | * | |
 | [ChristosMatskas](https://twitter.com/ChristosMatskas) | * | |
 | [jwendl](https://twitter.com/jwendl) | * | |
-| [Tuomas Hietanen](https://twitter.com/Thoriumi) | https://fsprojects.github.io/SQLProvider/ | |
+| [Tuomas Hietanen](https://twitter.com/Thoriumi) | https://fsprojects.github.io/SQLProvider/ | | thorium | thorium | 2024-03-27 |
 | [Michael Quinn](https://twitter.com/michaelquinn32) | I work on RStats packages. Here's one https://github.com/ropenscilabs/skimr. I'd be happy to help anyone interested! | | michaelquinn32 | michaelquinn32 | 2024-03-27 |
-| [Adam Miller](https://twitter.com/TheMaxamillion) | Ansible Core Developer here, sounding off. Happy to help newcomers, we all start somewhere, https://github.com/ansible/ansible. Anyone feel free to @ me. https://github.com/maxamillion  | |
-| [Doug Finke](https://twitter.com/dfinke) | PowerShell | |
-| [Russell Keith-Magee](https://twitter.com/freakboy3742) | The PyBeeWare project has an open offer to mentor anyone that wants to get into OSS contribution. Our getting started guide: https://pybee.org/contributing/how/first-time/ | |
-| [Eric Christopher](https://twitter.com/echristo) | Happy to help people with pretty much any area of clang/llvm - if I can't do the final review I'll help with finding the right person. | |
-| [Anne Ogborn](https://twitter.com/AnnieTheObscure) | I'm up for helping anybody contrib to SWI-Prolog | |
-| [Steve Manuel](https://twitter.com/nilslice) | Would love to help with Ponzu CMS, Golang | |
-| [Davanum Srinivas](https://twitter.com/dims) | OpenStack, Kubernetes | |
-| [Phil Estes](https://twitter.com/estesp) | Moby project, manifest-tool, bucketbench, OCI runc | |
-| [Ryan Gribble](https://twitter.com/ryangribble_)| We love helping first time contributors! Octokit, GitHub API | |
-| [Manuel Aristarán](https://twitter.com/manuelaristaran) | I'm the main author of TabulaPDF . Would love to help | |
-| [Manish Earth](https://twitter.com/ManishEarth) | Rust and Servo | |
-| [Mark Story](https://twitter.com/mark_story) | Happy to mentor anyone interested in CakePHP, or other projects I am involved with. | |
-| [OJ](https://twitter.com/TheColonial) | I'm a commiter on the @metasploit project, and would happily help people out. | |
-| [Joel Bennett](https://twitter.com/Jaykul) | I would be more than happy to help people get started with contributing to open source software, even if it wasn't any of the PowerShell stuff I'm involved with ;-) | |
+| [Adam Miller](https://twitter.com/TheMaxamillion) | Ansible Core Developer here, sounding off. Happy to help newcomers, we all start somewhere, https://github.com/ansible/ansible. Anyone feel free to @ me. https://github.com/maxamillion  | |adam-miller-82197459 | maxamillion | 2024-03-27 |
+| [Doug Finke](https://twitter.com/dfinke) | PowerShell | | douglasfinke | dfinke | 2024-03-27 |
+| [Russell Keith-Magee](https://twitter.com/freakboy3742) | The PyBeeWare project has an open offer to mentor anyone that wants to get into OSS contribution. Our getting started guide: https://pybee.org/contributing/how/first-time/ | |freakboy3742 | freakboy3742 | 2024-03-27 |
+| [Eric Christopher](https://twitter.com/echristo) | Happy to help people with pretty much any area of clang/llvm - if I can't do the final review I'll help with finding the right person. | | echristo | echristo | 2024-03-27 |
+| [Anne Ogborn](https://twitter.com/AnnieTheObscure) | I'm up for helping anybody contrib to SWI-Prolog | | anne-ogborn-0580708 | Anniepoo | 2024-03-27 |
+| [Steve Manuel](https://twitter.com/nilslice) | Would love to help with Ponzu CMS, Golang | | stevemanuel | nilslice | 2024-03-27 |
+| [Davanum Srinivas](https://twitter.com/dims) | OpenStack, Kubernetes | | davanum | dims | 2024-03-27 |
+| [Phil Estes](https://twitter.com/estesp) | Moby project, manifest-tool, bucketbench, OCI runc | | estesp | estesp | 2024-03-27 |
+| [Ryan Gribble](https://twitter.com/ryangribble_)| We love helping first time contributors! Octokit, GitHub API | | ryan-gribble | ryangribble | 2024-03-27 |
+| [Manuel Aristarán](https://twitter.com/manuelaristaran) | I'm the main author of TabulaPDF . Would love to help | | maristaran | jazzido | 2024-03-27 |
+| [Manish Earth](https://twitter.com/ManishEarth) | Rust and Servo | | manishearth | Manishearth | 2024-03-27 |
+| [Mark Story](https://twitter.com/mark_story) | Happy to mentor anyone interested in CakePHP, or other projects I am involved with. | | mark-story-44378822b | markstory | 2024-03-27 |
+| [OJ](https://twitter.com/TheColonial) | I'm a commiter on the @metasploit project, and would happily help people out. | | mark-story-44378822b | markstory | 2024-03-27 |
+| [Joel Bennett](https://twitter.com/Jaykul) | I would be more than happy to help people get started with contributing to open source software, even if it wasn't any of the PowerShell stuff I'm involved with ;-) | | jaykul | jaykul | 2024-03-27 |
 | [Phil Sturgeon](https://twitter.com/philsturgeon) | * | |
-| [Tyler Bui-Palsulich](https://twitter.com/tbpalsulich) | I'd be happy to help someone with @ApacheTika! The core is in Java and there are clients in #golang, Python, and more. | |
+| [Tyler Bui-Palsulich](https://twitter.com/tbpalsulich) | I'd be happy to help someone with @ApacheTika! The core is in Java and there are clients in #golang, Python, and more. | | tyler-bp | tbpg | 2024-03-27 |
 | [hrbrcoin](https://twitter.com/hrbrmstr) | RStats | |
-| [Barak Korren](https://twitter.com/BKorren) | I'd love to help people get started with Open Virtualization in general and the oVirt infra/CI in particular. http://www.ovirt.org  | |
-| [Rick Altherr](https://twitter.com/kc8apf) | OpenBMC and Symbiflow mostly but Linux, U-Boot, etc as well | |
-| [Houssein Djirdeh](https://twitter.com/hdjirdeh) | Happy to help anyone submit their first PRs to gitpointapp | |
+| [Barak Korren](https://twitter.com/BKorren) | I'd love to help people get started with Open Virtualization in general and the oVirt infra/CI in particular. http://www.ovirt.org  | | barak-korren-46319917 | ifireball | 2024-03-27 |
+| [Rick Altherr](https://twitter.com/kc8apf) | OpenBMC and Symbiflow mostly but Linux, U-Boot, etc as well | | mxshift | mx-shift | 2024-03-27 |
+| [Houssein Djirdeh](https://twitter.com/hdjirdeh) | Happy to help anyone submit their first PRs to gitpointapp | | housseindjirdeh | housseindjirdeh | 2024-03-27 |
 | [Andreas Heigl](https://twitter.com/heiglandreas) | I'm open to help someone with OpenSource-Contribs. Mainly with PHP | |
-| [not a function](https://twitter.com/jbaxleyiii) | Would love to help anyone wanting to work on Appollo GraphQL | |
+| [not a function](https://twitter.com/jbaxleyiii) | Would love to help anyone wanting to work on Appollo GraphQL | | james-baxley-ab6726150 | jbaxleyiii | 2024-03-27 |
 | [Leandro Pereira](https://twitter.com/lafp) | I contribute to Zephyr IoT https://github.com/zephyrproject-rtos/zephyr, and maintain Lwan (https://lwan.ws) and @hardinfo (http://hardinfo.org). Willing to mentor&help newcomers. | |
 | [Chris](https://twitter.com/TopherBR) | I've contributed to @InfluxDB but also realized a number of projects including bungiesearch (an elastic search wrapper for Django), smd (space mission designer tool in go), and hifitime (datetime management with leap seconds in Rust). | |
-| [Cédric L. Charlier](https://twitter.com/Seddryck) | Happy to help new folks to contribute to any MS Data Platform related project. | |
-| [Edward Loveall](https://twitter.com/edwardloveall) | I contribute to http://github.com/luckyframework  or random atom.io packages and I'd be happy to help. | |
-| [Free Benjamin](https://twitter.com/benj_fry) | For anyone interested in DNS, I am always open to people contributing to TRust-DNS, if you’re new to Rust, async-io, networking; I’m happy to try and explain things. | |
-| [Tomáš Herceg](https://twitter.com/hercegtomas) | I am one of the authors of dotvvm, a .NET based MVVM framework for webapps. | |
-| [David LaPalomento](https://twitter.com/dlapalomento) | I contribute to videojs and would be happy to walk someone through their first PR | |
+| [Cédric L. Charlier](https://twitter.com/Seddryck) | Happy to help new folks to contribute to any MS Data Platform related project. | | cedriccharlier | Seddryck | 2024-03-27 |
+| [Edward Loveall](https://twitter.com/edwardloveall) | I contribute to http://github.com/luckyframework  or random atom.io packages and I'd be happy to help. | | edward-loveall-33b21b17 | edwardloveall | 2024-03-27 |
+| [Benjamin Fry](https://twitter.com/benj_fry) | For anyone interested in DNS, I am always open to people contributing to TRust-DNS, if you’re new to Rust, async-io, networking; I’m happy to try and explain things. | | benjamin-fry-8b83072 | bluejekyll | 2024-03-27 |
+| [Tomáš Herceg](https://twitter.com/hercegtomas) | I am one of the authors of dotvvm, a .NET based MVVM framework for webapps. | | hercegtomas | tomasherceg | 2024-03-27 |
+| [David LaPalomento](https://twitter.com/dlapalomento) | I contribute to videojs and would be happy to walk someone through their first PR | | dlapalomento | BCdmlap | 2024-03-27 |
 | [Mustafa Ehsan](https://twitter.com/mustafaaloko) | I have around 10 tiny commits to laravelphp. And yes I am up for helping somebody to get started. | |
 | [Andrew Jeffery](https://twitter.com/mramboar) | I hack on the Linux kernel for OpenBMC and maintain some of the userspace bits and tooling. OpenBMC is a bit of a niche project, but I'm happy to help people wanting to contribute to either | |
 | [Robert Main](https://twitter.com/robertmain_) | https://joshmarinacci.github.io/node-pureimage/ | |
