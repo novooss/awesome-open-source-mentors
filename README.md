@@ -108,7 +108,7 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Navdeep Gill](https://twitter.com/Navdeep_Gill_) |  H2O.ai  | | navdeep-gill-b1729456 | navdeep-G | 2024-04-08 |
 | [Dmitry Khomutov](https://twitter.com/poisoncorpsee) | I’m open for helping contribute to php censor. | |
 | [Ed Elliott](https://twitter.com/EdDebug) | Happy to help on any project really, background is in windows/sql/.net/javascript but we can figure it out together :) | | edelliottuk | GOEddie | 2024-04-08 |
-| [Scotty C](https://twitter.com/scottcoulton) | More than happy to help anyone get there first PR merged. Especially if you are a fellow Aussie! | | scott-coulton-22864813 | scotty-c | 2024-04-08 |
+| [Scott Coulton](https://twitter.com/scottcoulton) | More than happy to help anyone get there first PR merged. Especially if you are a fellow Aussie! | | scott-coulton-22864813 | scotty-c | 2024-04-08 |
 | [Liviu Tudor](https://twitter.com/liviutudor) | * | |
 | [Parthvi Vala](https://twitter.com/ValaParthvi) | I have some experience working in python and django and I'd be more than happy to help someone. | |parthvi-vala-4548b5aa | ValaParthvi | 2024-04-08 |
 | [Andrew Brown](https://twitter.com/waunakeesoccer1) | * | |
@@ -121,7 +121,7 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Mauricio Salatino](https://twitter.com/salaboy) | I'm totally in activiti, java, bpm, microservices | | salaboy | salaboy | 2024-04-08 |
 | [cyplo](https://twitter.com/cyplo) | Any project really, I can help with reviews, communication with maintainers and whatever else is needed :) I am a contributor to the Rust compiler and other Rust projects, if that helps you choose :) | |
 | [Php Mentoring](https://php-mentoring.org/) | PHP community has a website dedicated exactly to that purpose - network that connects mentors and apprentices. Regardless of the name, it's not limited to PHP only, but (un)related technologies as well. | |
-| [Nicolas CHEVOBBE](https://twitter.com/nicolaschevobbe) | Can mentor anyone who wants to contribute on FirefoxDevTools | | nicolaschevobbe | nchevobbe | 2024-04-08 |
+| [Nicolas Chevobbe](https://twitter.com/nicolaschevobbe) | Can mentor anyone who wants to contribute on FirefoxDevTools | | nicolaschevobbe | nchevobbe | 2024-04-08 |
 | [Jens Schauder](https://twitter.com/jensschauder) | I can help with spring data, especially commons, JPA and JDBC. | | jens-schauder | schauder | 2024-04-08 |
 | [Spencer Gibb](https://twitter.com/spencerbgibb) | I'm willing to help with Spring Cloud contributions | | spencergibb | spencergibb | 2024-04-08 |
 | [Roshan Jossey](https://twitter.com/sudo__bangbang) | I maintain a project to help beginners get started on contributing open source projects. [First Contributions](https://github.com/Roshanjossey/first-contributions/). We also have a slack team to help/mentor people trying to contribute to open source projects. [Join slack team](https://firstcontributions.herokuapp.com) | | roshan-jossey-b00989a3 | roshanjossey | 2024-04-08 |
