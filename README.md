@@ -46,7 +46,7 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Manuel Aristarán](https://twitter.com/manuelaristaran) | I'm the main author of TabulaPDF . Would love to help | | maristaran | jazzido | 2024-03-27 |
 | [Manish Earth](https://twitter.com/ManishEarth) | Rust and Servo | | manishearth | Manishearth | 2024-03-27 |
 | [Mark Story](https://twitter.com/mark_story) | Happy to mentor anyone interested in CakePHP, or other projects I am involved with. | | mark-story-44378822b | markstory | 2024-03-27 |
-| [OJ](https://twitter.com/TheColonial) | I'm a commiter on the @metasploit project, and would happily help people out. | | mark-story-44378822b | markstory | 2024-03-27 |
+| [OJ](https://twitter.com/TheColonial) | I'm a commiter on the @metasploit project, and would happily help people out. | |
 | [Joel Bennett](https://twitter.com/Jaykul) | I would be more than happy to help people get started with contributing to open source software, even if it wasn't any of the PowerShell stuff I'm involved with ;-) | | jaykul | jaykul | 2024-03-27 |
 | [Phil Sturgeon](https://twitter.com/philsturgeon) | * | |
 | [Tyler Bui-Palsulich](https://twitter.com/tbpalsulich) | I'd be happy to help someone with @ApacheTika! The core is in Java and there are clients in #golang, Python, and more. | | tyler-bp | tbpg | 2024-03-27 |
@@ -55,7 +55,7 @@ Enhance the original list by including LinkedIn and GitHub usernames
 | [Rick Altherr](https://twitter.com/kc8apf) | OpenBMC and Symbiflow mostly but Linux, U-Boot, etc as well | | mxshift | mx-shift | 2024-03-27 |
 | [Houssein Djirdeh](https://twitter.com/hdjirdeh) | Happy to help anyone submit their first PRs to gitpointapp | | housseindjirdeh | housseindjirdeh | 2024-03-27 |
 | [Andreas Heigl](https://twitter.com/heiglandreas) | I'm open to help someone with OpenSource-Contribs. Mainly with PHP | |
-| [not a function](https://twitter.com/jbaxleyiii) | Would love to help anyone wanting to work on Appollo GraphQL | | james-baxley-ab6726150 | jbaxleyiii | 2024-03-27 |
+| [James Baxley](https://twitter.com/jbaxleyiii) | Would love to help anyone wanting to work on Appollo GraphQL | | james-baxley-ab6726150 | jbaxleyiii | 2024-03-27 |
 | [Leandro Pereira](https://twitter.com/lafp) | I contribute to Zephyr IoT https://github.com/zephyrproject-rtos/zephyr, and maintain Lwan (https://lwan.ws) and @hardinfo (http://hardinfo.org). Willing to mentor&help newcomers. | |
 | [Chris](https://twitter.com/TopherBR) | I've contributed to @InfluxDB but also realized a number of projects including bungiesearch (an elastic search wrapper for Django), smd (space mission designer tool in go), and hifitime (datetime management with leap seconds in Rust). | |
 | [Cédric L. Charlier](https://twitter.com/Seddryck) | Happy to help new folks to contribute to any MS Data Platform related project. | | cedriccharlier | Seddryck | 2024-03-27 |
